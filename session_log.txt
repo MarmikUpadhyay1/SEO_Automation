@@ -1,0 +1,270 @@
+2024-10-25 01:02:29 - Timed out waiting for the consent popup.
+2024-10-25 01:02:29 - Searching for: Loyalist college
+2024-10-25 01:02:32 - Searched for keyword: Loyalist college
+2024-10-25 01:02:32 - Found matching domain: https://www.google.com/url?q=https://loyalistcollege.com/&sa=U&ved=2ahUKEwiGloe34KiJAxXMMlkFHWs6LfsQFnoECAUQAg&usg=AOvVaw06yp0oOx4k0OMAl3NjFuwE. Visiting...
+2024-10-25 01:02:35 - Simulating scrolling for 14 seconds.
+2024-10-25 01:02:55 - Session complete. Closing browser.
+2024-10-25 01:03:40 - Timed out waiting for the consent popup.
+2024-10-25 01:03:40 - Searching for: Loyalist college
+2024-10-25 01:03:43 - Searched for keyword: Loyalist college
+2024-10-25 01:03:44 - No matching domain found in the first 100 Google results.
+2024-10-25 01:03:44 - No matching domain found. Visiting https://eloyalistcollege.com/learn/programs-list/ directly.
+2024-10-25 01:03:51 - Session complete. Closing browser.
+2024-10-25 01:05:07 - Timed out waiting for the consent popup.
+2024-10-25 01:05:07 - Searching for: loyalist college
+2024-10-25 01:05:11 - Searched for keyword: loyalist college
+2024-10-25 01:05:11 - Found matching domain: https://www.google.com/?sa=X&ved=0ahUKEwiyss-C4aiJAxWFMlkFHa7cHAgQOwgC. Visiting...
+2024-10-25 01:05:11 - Simulating scrolling for 15 seconds.
+2024-10-25 01:05:27 - Session complete. Closing browser.
+2024-10-25 01:17:49 - Timed out waiting for the consent popup.
+2024-10-25 01:17:49 - Searching for: Loyalist college
+2024-10-25 01:17:52 - Searched for keyword: Loyalist college
+2024-10-25 01:18:06 - Found matching domain: https://www.google.com/?sa=X&ved=0ahUKEwiDs97t46iJAxXPD1kFHfqMN1MQOwgC. Visiting...
+2024-10-25 01:18:06 - Simulating scrolling for 19 seconds.
+2024-10-25 01:18:28 - Session complete. Closing browser.
+2024-10-25 01:19:28 - Timed out waiting for the consent popup.
+2024-10-25 01:19:28 - Searching for: loyalist college
+2024-10-25 01:19:31 - Searched for keyword: loyalist college
+2024-10-25 01:19:50 - Found matching domain: https://www.google.com/?sa=X&ved=0ahUKEwi0_IGd5KiJAxWdLVkFHWqfNSAQOwgC. Visiting...
+2024-10-25 01:19:50 - Simulating scrolling for 17 seconds.
+2024-10-25 01:20:12 - Session complete. Closing browser.
+2024-10-25 01:21:01 - Timed out waiting for the consent popup.
+2024-10-25 01:21:01 - Searching for: loyalist college
+2024-10-25 01:21:04 - Searched for keyword: loyalist college
+2024-10-25 01:23:10 - Found matching domain: https://www.google.com/url?q=https://loyalistcollege.com/about/employment/work-at-loyalist/&sa=U&ved=2ahUKEwie9pLJ5KiJAxWjGVkFHakqHOkQjBB6BAgHEAk&usg=AOvVaw1bHEKeWypVPT12CZlMuCIc. Visiting...
+2024-10-25 01:23:12 - Simulating scrolling for 19 seconds.
+2024-10-25 01:23:31 - Session complete. Closing browser.
+2024-10-25 01:25:16 - Timed out waiting for the consent popup.
+2024-10-25 01:25:16 - Searching for: loyalist college
+2024-10-25 01:25:21 - Searched for keyword: loyalist college
+2024-10-25 01:25:21 - Found matching domain: https://www.google.com/url?q=https://loyalistcollege.com/our-locations/&sa=U&ved=2ahUKEwibnpDD5aiJAxWIMVkFHUN9JXMQjBB6BAgEEA0&usg=AOvVaw1v30nNX5RIYsTXnNVYEWJm. Visiting...
+2024-10-25 01:25:23 - Simulating scrolling for 14 seconds.
+2024-10-25 01:25:34 - Session complete. Closing browser.
+2024-10-25 12:17:55 - Consent popup not found or timed out.
+2024-10-25 12:17:55 - Searching for: controllo di gestione aziende vinicole
+2024-10-25 12:17:56 - Searched for keyword: controllo di gestione aziende vinicole
+2024-10-25 12:17:59 - No matching domain found in the first 100 Google results.
+2024-10-25 12:17:59 - No matching domain found. Visiting art-news.space directly.
+2024-10-25 12:18:16 - Simulating scrolling for 155 seconds.
+2024-10-25 12:20:53 - Session complete. Closing browser.
+2024-10-25 12:22:22 - Consent popup not found or timed out.
+2024-10-25 12:22:22 - Searching for: albo d'oro cincinnati
+2024-10-25 12:22:22 - Searched for keyword: albo d'oro cincinnati
+2024-10-25 12:22:27 - Found matching domain: https://www.google.com/url?q=https://sportingnews.it/2024/tennis/atp-cincinnati-lalbo-doro-del-masters-1000-tutti-i-vincitori/&sa=U&ved=2ahUKEwjIk-Oy-KmJAxVn5MkDHTdMGccQFnoECAEQAg&usg=AOvVaw32DZGHBCFhwTXdDUG7Xhm6. Visiting...
+2024-10-25 12:23:02 - Simulating scrolling for 18 seconds.
+2024-10-25 12:23:21 - Session complete. Closing browser.
+2024-10-25 12:23:48 - Consent popup not found or timed out.
+2024-10-25 12:23:48 - Searching for: franco d eusanio vini
+2024-10-25 12:23:52 - Searched for keyword: franco d eusanio vini
+2024-10-25 12:23:59 - No matching domain found in the first 100 Google results.
+2024-10-25 12:23:59 - No matching domain found. Visiting ventidinews.it directly.
+2024-10-25 12:24:42 - Simulating scrolling for 12 seconds.
+2024-10-25 12:24:58 - Session complete. Closing browser.
+2024-10-25 12:25:22 - Consent popup not found or timed out.
+2024-10-25 12:25:22 - Searching for: albo d'oro cincinnati
+2024-10-25 12:25:24 - Searched for keyword: albo d'oro cincinnati
+2024-10-25 12:25:26 - No matching domain found in the first 100 Google results.
+2024-10-25 12:25:26 - No matching domain found. Visiting economic-news.space directly.
+2024-10-25 12:26:00 - Simulating scrolling for 19 seconds.
+2024-10-25 12:26:20 - Session complete. Closing browser.
+2024-10-25 12:57:08 - Consent popup not found or timed out.
+2024-10-25 12:57:08 - Searching for: franco d eusanio vini
+2024-10-25 12:57:09 - Searched for keyword: franco d eusanio vini
+2024-10-25 12:57:12 - No matching domain found in the first 100 Google results.
+2024-10-25 12:57:12 - No matching domain found. Visiting eco-news.space directly.
+2024-10-25 12:57:48 - Simulating scrolling for 18 seconds.
+2024-10-25 12:58:07 - Session complete. Closing browser.
+2024-10-25 16:18:22 - Consent popup not found or timed out.
+2024-10-25 16:18:22 - Searching for: albo d'oro cincinnati
+2024-10-25 16:18:23 - Searched for keyword: albo d'oro cincinnati
+2024-10-25 16:18:25 - No matching domain found in the first 100 Google results.
+2024-10-25 16:18:25 - No matching domain found. Visiting foodingnews.it directly.
+2024-10-25 16:18:41 - Simulating scrolling for 18 seconds.
+2024-10-25 16:18:59 - Session complete. Closing browser.
+2024-10-25 16:59:54 - Consent popup not found or timed out.
+2024-10-25 16:59:54 - Searching for: hopman cup 2025
+2024-10-25 16:59:55 - Searched for keyword: hopman cup 2025
+2024-10-25 16:59:56 - No matching domain found in the first 100 Google results.
+2024-10-25 16:59:56 - No matching domain found. Visiting sportlife.news directly.
+2024-10-25 17:00:09 - Session complete. Closing browser.
+2024-10-25 17:00:51 - Consent popup not found or timed out.
+2024-10-25 17:00:51 - Searching for: franco d eusanio vini
+2024-10-25 17:00:52 - Searched for keyword: franco d eusanio vini
+2024-10-25 17:00:53 - No matching domain found in the first 100 Google results.
+2024-10-25 17:00:53 - No matching domain found. Visiting technology-news.space directly.
+2024-10-25 17:01:04 - Simulating scrolling for 12 seconds.
+2024-10-25 17:01:14 - Session complete. Closing browser.
+2024-10-25 17:04:11 - Consent popup not found or timed out.
+2024-10-25 17:04:11 - Searching for: biglietti juventus manchester city
+2024-10-25 17:04:11 - Searched for keyword: biglietti juventus manchester city
+2024-10-25 17:04:14 - No matching domain found in the first 100 Google results.
+2024-10-25 17:04:14 - No matching domain found. Visiting art-news.space directly.
+2024-10-25 17:04:30 - Simulating scrolling for 16 seconds.
+2024-10-25 17:04:47 - Session complete. Closing browser.
+2024-10-25 17:06:20 - Consent popup not found or timed out.
+2024-10-25 17:06:20 - Searching for: controllo di gestione aziende vinicole
+2024-10-25 17:06:21 - Searched for keyword: controllo di gestione aziende vinicole
+2024-10-25 17:06:22 - No matching domain found in the first 100 Google results.
+2024-10-25 17:06:22 - No matching domain found. Visiting economic-news.space directly.
+2024-10-25 17:06:31 - Simulating scrolling for 12 seconds.
+2024-10-25 17:06:47 - Session complete. Closing browser.
+2024-10-25 17:09:58 - Consent popup not found or timed out.
+2024-10-25 17:09:58 - Searching for: controllo di gestione aziende vinicole
+2024-10-25 17:09:59 - Searched for keyword: controllo di gestione aziende vinicole
+2024-10-25 17:10:00 - No matching domain found in the first 100 Google results.
+2024-10-25 17:10:00 - No matching domain found. Visiting wellness-news.space directly.
+2024-10-25 17:10:08 - Simulating scrolling for 11 seconds.
+2024-10-25 17:10:08 - Session complete. Closing browser.
+2024-10-26 11:48:08 - An error occurred while accepting consent: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF600B23AB5+28005]
+	(No symbol) [0x00007FF600A883B0]
+	(No symbol) [0x00007FF60092580A]
+	(No symbol) [0x00007FF6008FFA85]
+	(No symbol) [0x00007FF6009A2AD7]
+	(No symbol) [0x00007FF6009BB1B1]
+	(No symbol) [0x00007FF60099B7E3]
+	(No symbol) [0x00007FF6009675C8]
+	(No symbol) [0x00007FF600968731]
+	GetHandleVerifier [0x00007FF600E1643D+3118829]
+	GetHandleVerifier [0x00007FF600E66C90+3448640]
+	GetHandleVerifier [0x00007FF600E5CF0D+3408317]
+	GetHandleVerifier [0x00007FF600BEA40B+841403]
+	(No symbol) [0x00007FF600A9340F]
+	(No symbol) [0x00007FF600A8F484]
+	(No symbol) [0x00007FF600A8F61D]
+	(No symbol) [0x00007FF600A7EB79]
+	BaseThreadInitThunk [0x00007FFFB1277374+20]
+	RtlUserThreadStart [0x00007FFFB31FCC91+33]
+
+2024-10-26 11:48:08 - Searching for: controllo di gestione aziende vinicole
+2024-10-26 11:48:08 - An error occurred while searching: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF600B23AB5+28005]
+	(No symbol) [0x00007FF600A883B0]
+	(No symbol) [0x00007FF60092580A]
+	(No symbol) [0x00007FF6008FFA85]
+	(No symbol) [0x00007FF6009A2AD7]
+	(No symbol) [0x00007FF6009BB1B1]
+	(No symbol) [0x00007FF60099B7E3]
+	(No symbol) [0x00007FF6009675C8]
+	(No symbol) [0x00007FF600968731]
+	GetHandleVerifier [0x00007FF600E1643D+3118829]
+	GetHandleVerifier [0x00007FF600E66C90+3448640]
+	GetHandleVerifier [0x00007FF600E5CF0D+3408317]
+	GetHandleVerifier [0x00007FF600BEA40B+841403]
+	(No symbol) [0x00007FF600A9340F]
+	(No symbol) [0x00007FF600A8F484]
+	(No symbol) [0x00007FF600A8F61D]
+	(No symbol) [0x00007FF600A7EB79]
+	BaseThreadInitThunk [0x00007FFFB1277374+20]
+	RtlUserThreadStart [0x00007FFFB31FCC91+33]
+
+2024-10-26 11:48:08 - An error occurred while checking results: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF600B23AB5+28005]
+	(No symbol) [0x00007FF600A883B0]
+	(No symbol) [0x00007FF60092580A]
+	(No symbol) [0x00007FF6008FFA85]
+	(No symbol) [0x00007FF6009A2AD7]
+	(No symbol) [0x00007FF6009BB1B1]
+	(No symbol) [0x00007FF60099B7E3]
+	(No symbol) [0x00007FF6009675C8]
+	(No symbol) [0x00007FF600968731]
+	GetHandleVerifier [0x00007FF600E1643D+3118829]
+	GetHandleVerifier [0x00007FF600E66C90+3448640]
+	GetHandleVerifier [0x00007FF600E5CF0D+3408317]
+	GetHandleVerifier [0x00007FF600BEA40B+841403]
+	(No symbol) [0x00007FF600A9340F]
+	(No symbol) [0x00007FF600A8F484]
+	(No symbol) [0x00007FF600A8F61D]
+	(No symbol) [0x00007FF600A7EB79]
+	BaseThreadInitThunk [0x00007FFFB1277374+20]
+	RtlUserThreadStart [0x00007FFFB31FCC91+33]
+
+2024-10-26 11:48:08 - No matching domain found. Visiting art-news.space directly.
+2024-10-26 11:48:08 - Session complete. Closing browser.
+2024-10-26 11:49:34 - Consent popup not found or timed out.
+2024-10-26 11:49:34 - Searching for: biglietti juventus manchester city
+2024-10-26 11:49:36 - Searched for keyword: biglietti juventus manchester city
+2024-10-26 11:49:39 - No matching domain found in the first 100 Google results.
+2024-10-26 11:49:39 - No matching domain found. Visiting ventidicronaca.it directly.
+2024-10-26 11:50:01 - Simulating scrolling for 18 seconds.
+2024-10-26 11:50:20 - Session complete. Closing browser.
+2024-10-26 12:23:11 - Consent popup not found or timed out.
+2024-10-26 12:23:11 - Searching for: franco d eusanio vini
+2024-10-26 12:23:12 - Searched for keyword: franco d eusanio vini
+2024-10-26 12:23:13 - No matching domain found in the first 100 Google results.
+2024-10-26 12:23:13 - No matching domain found. Visiting motor-news.space directly.
+2024-10-26 12:23:35 - Simulating scrolling for 13 seconds.
+2024-10-26 12:23:40 - Session complete. Closing browser.
+2024-10-26 12:25:53 - Consent popup not found or timed out.
+2024-10-26 12:25:53 - Searching for: hopman cup 2025
+2024-10-26 12:25:57 - Searched for keyword: hopman cup 2025
+2024-10-26 12:25:59 - No matching domain found in the first 100 Google results.
+2024-10-26 12:25:59 - No matching domain found. Visiting show-news.space directly.
+2024-10-26 12:26:14 - Simulating scrolling for 15 seconds.
+2024-10-26 12:26:29 - Session complete. Closing browser.
+2024-10-26 12:28:07 - Consent popup not found or timed out.
+2024-10-26 12:28:07 - Searching for: biglietti juventus manchester city
+2024-10-26 12:28:08 - Searched for keyword: biglietti juventus manchester city
+2024-10-26 12:28:12 - No matching domain found in the first 100 Google results.
+2024-10-26 12:28:12 - No matching domain found. Visiting womenworld.eu directly.
+2024-10-26 12:28:29 - Simulating scrolling for 12 seconds.
+2024-10-26 12:28:43 - Session complete. Closing browser.
+2024-10-27 14:59:13 - Consent popup not found or timed out.
+2024-10-27 14:59:13 - Searching for: hopman cup 2025
+2024-10-27 14:59:14 - Searched for keyword: hopman cup 2025
+2024-10-27 14:59:17 - No matching domain found in the first 100 Google results.
+2024-10-27 14:59:17 - No matching domain found. Visiting myhome-news.space directly.
+2024-10-27 14:59:38 - Simulating scrolling for 131 seconds.
+2024-10-27 15:01:39 - Session complete. Closing browser.
+2024-10-31 14:14:44 - Consent popup not found or timed out.
+2024-10-31 14:14:44 - Searching for: controllo di gestione aziende vinicole
+2024-10-31 14:14:45 - Searched for keyword: controllo di gestione aziende vinicole
+2024-10-31 14:14:47 - No matching domain found in the first 100 Google results.
+2024-10-31 14:14:47 - No matching domain found. Visiting technology-news.space directly.
+2024-10-31 14:14:58 - Simulating scrolling for 123 seconds.
+2024-10-31 14:17:04 - Session complete. Closing browser.
+2024-10-31 14:19:59 - Consent popup not found or timed out.
+2024-10-31 14:19:59 - Searching for: albo d'oro cincinnati
+2024-10-31 14:20:00 - Searched for keyword: albo d'oro cincinnati
+2024-10-31 14:20:03 - No matching domain found in the first 100 Google results.
+2024-10-31 14:20:03 - No matching domain found. Visiting ventidicronaca.it directly.
+2024-10-31 14:20:09 - Simulating scrolling for 178 seconds.
+2024-10-31 14:23:09 - Session complete. Closing browser.
+2024-10-31 14:48:34 - Consent popup not found or timed out.
+2024-10-31 14:48:34 - Searching for: hopman cup 2025
+2024-10-31 14:48:35 - Searched for keyword: hopman cup 2025
+2024-10-31 14:48:37 - No matching domain found in the first 100 Google results.
+2024-10-31 14:48:37 - No matching domain found. Visiting ventidieconomia.it directly.
+2024-10-31 14:49:01 - Simulating scrolling for 144 seconds.
+2024-10-31 14:51:26 - Session complete. Closing browser.
+2024-10-31 15:38:44 - Consent popup not found or timed out.
+2024-10-31 15:38:44 - Searching for: albo d'oro cincinnati
+2024-10-31 15:38:45 - Searched for keyword: albo d'oro cincinnati
+2024-10-31 15:38:54 - No matching domain found in the first 100 Google results.
+2024-10-31 15:38:54 - Session complete. Closing browser.
+2024-10-31 15:47:29 - Consent popup not found or timed out.
+2024-10-31 15:47:29 - Searching for: biglietti juventus manchester city
+2024-10-31 15:47:37 - Searched for keyword: biglietti juventus manchester city
+2024-10-31 15:47:41 - No matching domain found in the first 100 Google results.
+2024-10-31 15:47:41 - Session complete. Closing browser.
+2024-10-31 15:52:08 - Consent popup not found or timed out.
+2024-10-31 15:52:08 - Searching for: hopman cup 2025
+2024-10-31 15:52:09 - Searched for keyword: hopman cup 2025
+2024-10-31 15:52:20 - No matching domain found in the first 100 Google results.
+2024-10-31 15:52:20 - Session complete. Closing browser.
+2024-10-31 15:59:52 - Consent popup not found or timed out.
+2024-10-31 15:59:52 - Searching for: franco d eusanio vini
+2024-10-31 15:59:53 - Searched for keyword: franco d eusanio vini
+2024-10-31 15:59:58 - No matching domain found in the first 100 Google results.
+2024-10-31 15:59:58 - No matching domain found. Visiting economic-news.space directly.
+2024-10-31 16:00:21 - Simulating scrolling for 144 seconds.
+2024-10-31 16:02:47 - Session complete. Closing browser.

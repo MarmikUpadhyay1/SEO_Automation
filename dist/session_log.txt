@@ -1,0 +1,42 @@
+2024-10-26 12:34:00 - Consent popup not found or timed out.
+2024-10-26 12:34:00 - Searching for: albo d'oro cincinnati
+2024-10-26 12:34:01 - Searched for keyword: albo d'oro cincinnati
+2024-10-26 12:34:03 - No matching domain found in the first 100 Google results.
+2024-10-26 12:34:03 - No matching domain found. Visiting ventidisport.it directly.
+2024-10-26 12:34:33 - Simulating scrolling for 171 seconds.
+2024-10-26 12:37:31 - Session complete. Closing browser.
+2024-10-26 12:38:32 - Consent popup not found or timed out.
+2024-10-26 12:38:32 - Searching for: biglietti juventus manchester city
+2024-10-26 12:38:36 - Searched for keyword: biglietti juventus manchester city
+2024-10-26 12:38:38 - No matching domain found in the first 100 Google results.
+2024-10-26 12:38:38 - No matching domain found. Visiting womenworld.eu directly.
+2024-10-26 12:39:09 - Simulating scrolling for 188 seconds.
+2024-10-26 12:42:21 - Session complete. Closing browser.
+2024-10-26 12:43:13 - Consent popup not found or timed out.
+2024-10-26 12:43:13 - Searching for: biglietti juventus manchester city
+2024-10-26 12:43:16 - Searched for keyword: biglietti juventus manchester city
+2024-10-26 12:43:19 - No matching domain found in the first 100 Google results.
+2024-10-26 12:43:19 - No matching domain found. Visiting realestate-news.space directly.
+2024-10-26 12:44:00 - Simulating scrolling for 119 seconds.
+2024-10-26 12:46:00 - Session complete. Closing browser.
+2024-10-26 12:46:41 - Consent popup not found or timed out.
+2024-10-26 12:46:41 - Searching for: albo d'oro cincinnati
+2024-10-26 12:46:44 - Searched for keyword: albo d'oro cincinnati
+2024-10-26 12:46:46 - No matching domain found in the first 100 Google results.
+2024-10-26 12:46:46 - No matching domain found. Visiting foodingnews.it directly.
+2024-10-26 12:47:43 - Simulating scrolling for 162 seconds.
+2024-10-26 12:50:26 - Session complete. Closing browser.
+2024-11-11 17:35:17 - Consent popup not found or timed out.
+2024-11-11 17:35:17 - Searching for: controllo di gestione aziende vinicole
+2024-11-11 17:35:23 - Searched for keyword: controllo di gestione aziende vinicole
+2024-11-11 17:35:24 - No matching domain found in the first 100 Google results.
+2024-11-11 17:35:24 - No matching domain found. Visiting www.quatio.it directly.
+2024-11-11 17:35:30 - Simulating scrolling for 187 seconds.
+2024-11-11 17:38:40 - Session complete. Closing browser.
+2024-11-22 13:44:05 - Consent popup not found or timed out.
+2024-11-22 13:44:05 - Searching for: franco d eusanio vini
+2024-11-22 13:44:06 - Searched for keyword: franco d eusanio vini
+2024-11-22 13:44:09 - No matching domain found in the first 100 Google results.
+2024-11-22 13:44:09 - No matching domain found. Visiting www.quatio.it directly.
+2024-11-22 13:44:13 - Simulating scrolling for 167 seconds.
+2024-11-22 13:47:02 - Session complete. Closing browser.
